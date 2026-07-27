@@ -1,0 +1,9 @@
+This is file 1.txt
+Important commands:
+git init --- this is to initialize a folder/project/working directory/folder where all code files are stored 
+git add "file name with extension" ---- git add 1.txt
+git add . --- this command adds all the files for commit or staging area
+git commit -m "initial Message" ---- this is the final stage, by this command a checkpoint will be created with a message given in " ".  
+git status -- To know what has been 
+Changes are being made after commit to this 
+Did not show 
